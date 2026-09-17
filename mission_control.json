@@ -1,6 +1,6 @@
 {
-  "engine": "OFFLINE",
-  "shields": "OFFLINE",
+  "engine": "ONLINE",
+  "shields": "ONLINE",
   "communications": "OFFLINE",
   "escape_route": "UNDECIDED"
 }
